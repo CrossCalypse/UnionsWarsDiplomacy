@@ -1,0 +1,195 @@
+
+nationicons.png
+size: 3000, 3000
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Republic Federation of New Oceania
+  rotate: false
+  xy: 0, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+NationIcons/Union of Vorherrschaft
+  rotate: false
+  xy: 500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+NationIcons/Sovereign States of The Northern Highlands
+  rotate: false
+  xy: 1000, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+NationIcons/Ubuntu Union
+  rotate: false
+  xy: 1500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+NationIcons/Federation of The Eastern Dominion
+  rotate: false
+  xy: 2000, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+NationIcons/New Order of USSR
+  rotate: false
+  xy: 2500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+NationIcons/Desert Union
+  rotate: false
+  xy: 0, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+NationIcons/Confederation of Switzerland
+  rotate: false
+  xy: 500, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+NationIcons/United States of Tres
+  rotate: false
+  xy: 1000, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+LeaderIcons/Miranda Kreuz
+  rotate: false
+  xy: 0, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+LeaderIcons/Bismarck Hanz II
+  rotate: false
+  xy: 500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+LeaderIcons/Arthur Hawthorne Windsor
+  rotate: false
+  xy: 1000, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+LeaderIcons/Zuberi Akili Mandela
+  rotate: false
+  xy: 1500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+LeaderIcons/Sakura
+  rotate: false
+  xy: 2000, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+LeaderIcons/???
+  rotate: false
+  xy: 2500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+LeaderIcons/Khalifa Layth Al-Sharq
+  rotate: false
+  xy: 0, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+LeaderIcons/Markus Weissberg
+  rotate: false
+  xy: 500, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+LeaderIcons/Washington
+  rotate: false
+  xy: 1000, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ResourceIcons/Oceania Token
+  rotate: false
+  xy: 0, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ResourceIcons/Vorherrschaft Token
+  rotate: false
+  xy: 500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ResourceIcons/Highlands Token
+  rotate: false
+  xy: 1000, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ResourceIcons/Ubuntu Token
+  rotate: false
+  xy: 1500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ResourceIcons/Eastern Dominion Token
+  rotate: false
+  xy: 2000, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ResourceIcons/New USSR Token
+  rotate: false
+  xy: 2500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ResourceIcons/Desert Token
+  rotate: false
+  xy: 0, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ResourceIcons/Switzerland Token
+  rotate: false
+  xy: 500, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tres Token
+  rotate: false
+  xy: 1000, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+unitimages.png
+size: 3000, 3000
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ExtraImages/Oceanic Dreadnought
+  rotate: false
+  xy: 0, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Ship of The High Tides
+  rotate: false
+  xy: 500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Floating Fortress
+  rotate: false
+  xy: 1000, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Elite Soldier
+  rotate: false
+  xy: 1500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Conqueror of Lands
+  rotate: false
+  xy: 2000, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Guardian Knight
+  rotate: false
+  xy: 2500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Pledged To Protect
+  rotate: false
+  xy: 0, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/I'm not there
+  rotate: false
+  xy: 500, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Swiss Soldier
+  rotate: false
+  xy: 1000, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/AAGA
+  rotate: false
+  xy: 1500, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Hypersonic Striker
+  rotate: false
+  xy: 2000, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Winter Tank
+  rotate: false
+  xy: 2500, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/One
+  rotate: false
+  xy: 0, 1000
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Spider Devil Tank
+  rotate: false
+  xy: 500, 1000
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/AAGA (ABILITY)
+  rotate: false
+  xy: 1000, 1000
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Red Army Soldier
+  rotate: false
+  xy: 1500, 1000
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Soviet Worker
+  rotate: false
+  xy: 2000, 1000
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Coordinated Strikers
+  rotate: false
+  xy: 2500, 1000
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/United Forces Soldier
+  rotate: false
+  xy: 0, 1500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Desert Soldier
+  rotate: false
+  xy: 500, 1500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Coordinated Strikers (ABILITY)
+  rotate: false
+  xy: 1000, 1500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/Hypersonic Striker (ABILITY)
+  rotate: false
+  xy: 1500, 1500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+ExtraImages/One (ABILITY)
+  rotate: false
+  xy: 2000, 1500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

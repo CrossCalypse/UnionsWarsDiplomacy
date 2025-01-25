@@ -1,0 +1,167 @@
+
+uniticons.png
+size: 3000, 3000
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Oceanic Dreadnought
+  rotate: false
+  xy: 0, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Ship of The High Tides
+  rotate: false
+  xy: 500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Floating Fortress
+  rotate: false
+  xy: 1000, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Elite Soldier
+  rotate: false
+  xy: 1500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Conqueror of Lands
+  rotate: false
+  xy: 2000, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Guardian Knight
+  rotate: false
+  xy: 2500, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Pledged To Protect
+  rotate: false
+  xy: 0, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/I'm not there
+  rotate: false
+  xy: 500, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Swiss Soldier
+  rotate: false
+  xy: 1000, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/AAGA
+  rotate: false
+  xy: 1500, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Hypersonic Striker
+  rotate: false
+  xy: 2000, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Winter Tank
+  rotate: false
+  xy: 2500, 500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/One
+  rotate: false
+  xy: 0, 1000
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Spider Devil Tank
+  rotate: false
+  xy: 500, 1000
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/AAGA (ABILITY)
+  rotate: false
+  xy: 1000, 1000
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Red Army Soldier
+  rotate: false
+  xy: 1500, 1000
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Soviet Worker
+  rotate: false
+  xy: 2000, 1000
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Coordinated Strikers
+  rotate: false
+  xy: 2500, 1000
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/United Forces Soldier
+  rotate: false
+  xy: 0, 1500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Desert Soldier
+  rotate: false
+  xy: 500, 1500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Coordinated Strikers (ABILITY)
+  rotate: false
+  xy: 1000, 1500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Hypersonic Striker (ABILITY)
+  rotate: false
+  xy: 1500, 1500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/One (ABILITY)
+  rotate: false
+  xy: 2000, 1500
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
