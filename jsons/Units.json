@@ -388,7 +388,7 @@
     { "extraImage": "ExtraImages/Coordinated Strikers (ABILITY)", "imageSize": 200 },
     { "text": "Why settle for one when you can have three? The Coordinated Strikers embody the power of numbers, overwhelming enemies with synchronized strikes from the sky. A symbol of unmatched freedom and air superiority, they dominate the skies with sheer force and precision." },
     ],
-		"uniques": ["Unbuildable","[+50]% Strength <when attacking>","[100]% chance to intercept air attacks","[+100]% Damage when intercepting","[+100]% Strength <vs [Air] units>","Comment [Land in City]","Can upgrade to [Coordinated Strikers] <when above [50] HP> <within [0] tiles of a [City Center]>"],
+		"uniques": ["Unbuildable","[+50]% Strength <when attacking>","[100]% chance to intercept air attacks","[+100]% Damage when intercepting","[+100]% Strength <vs [Air] units>","Comment [Land in City]","Can upgrade to [Coordinated Strikers] <when above [50] HP> <within [0] tiles of a [City center]>"],
 		"attackSound": "Coordinated Strikers (ABILITY)",
 	},
 	
@@ -399,16 +399,16 @@
 		"unitType": "Aircraft (FLYING)",
 		"uniqueTo": "United States of Tres",
 		"cost": 0,
-		"movement": 2,
+		"movement": 8,
 		"strength": 80,
 		"rangedStrength": 80,
-		"range": 5,
+		"range": 1,
 		"requiredTech": "Radar",
 		"civilopediaText": [
     { "extraImage": "ExtraImages/Hypersonic Striker (ABILITY)", "imageSize": 200 },
     { "text": "The Hypersonic Striker, a pinnacle of engineering and patriotism, soars through the skies with unmatched speed and power. A high-velocity, sound-breaking aircraft that strikes fear into any foe, it's as lethal as it is awe-inspiring, representing the cutting edge of military might in the United States of Tres." },
     ],
-		"uniques": ["Unbuildable","[+50]% Strength <when attacking>","[100]% chance to intercept air attacks","[+100]% Damage when intercepting","[+100]% Strength <vs [Air] units>","Comment [Land in City]","Can upgrade to [Hypersonic Striker] <when above [50] HP> <within [0] tiles of a [City Center]>"],
+		"uniques": ["Unbuildable","[+50]% Strength <when attacking>","[100]% chance to intercept air attacks","[+100]% Damage when intercepting","[+100]% Strength <vs [Air] units>","Comment [Land in City]","Can upgrade to [Hypersonic Striker] <when above [50] HP> <within [0] tiles of a [City center]>"],
 		"attackSound": "Hypersonic Striker (ABILITY)",
 	},
 	
