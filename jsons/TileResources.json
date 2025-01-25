@@ -17,7 +17,7 @@
     {
         "name": "Ubuntu Token",
         "resourceType": "Luxury",
-        "uniques": ["[+5] [Happiness]","[+10]% [Happiness]"],
+        "uniques": ["[+5 Happiness]","[+10]% [Happiness]"],
     },
     {
         "name": "Eastern Dominion Token",
