@@ -1,0 +1,34 @@
+[
+    ///SPOILERS!1!1!1 Once i finished the mod fully, i'll turn it into a ruleset, hehehe.
+    
+    ///Based-Types
+    
+    {
+        "name": "Warship",
+        "movementType": "Water",
+        "uniques": ["Never appears as a Barbarian unit","Uncapturable"],
+    },
+    {
+        "name": "Aircraft",
+        "movementType": "Air",
+        "uniques": ["Never appears as a Barbarian unit","Uncapturable","Can see over obstacles"],
+    },
+    {
+        "name": "Tank",
+        "movementType": "Land",
+        "uniques": ["Never appears as a Barbarian unit","Uncapturable"],
+    },
+    {
+        "name": "Infantry",
+        "movementType": "Land",
+        "uniques": ["Never appears as a Barbarian unit","Uncapturable"],
+    },
+    
+    ///Special-Types
+    
+    {
+        "name": "Aircraft (FLYING)",
+        "movementType": "Land",
+        "uniques": ["Never appears as a Barbarian unit","Uncapturable","Ignores Zone of Control","May travel on Water tiles without embarking","Can see over obstacles","Ignores terrain cost","Can pass through impassable tiles","Eliminates combat penalty for attacking across a coast","Eliminates combat penalty for attacking over a river","No defensive terrain bonus","Can move after attacking","No defensive terrain penalty"],
+    },
+]

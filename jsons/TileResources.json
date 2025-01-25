@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Oceania Token",
+        "resourceType": "Luxury",
+        "uniques": ["[+10]% [Gold] [in all cities]","[+10]% [Gold] [in capital]"],
+    },
+    {
+        "name": "Vorherrschaft Token",
+        "resourceType": "Luxury",
+        "uniques": ["[+25]% XP gained from combat","[+10]% Production when constructing [Military] units [in all cities]"],
+    },
+    {
+        "name": "Highlands Token",
+        "resourceType": "Luxury",
+        "uniques": ["[+10]% Strength <when fighting in [Friendly] tiles>","[+10]% to Flank Attack bonuses"],
+    },
+    {
+        "name": "Ubuntu Token",
+        "resourceType": "Luxury",
+        "uniques": ["[+5] [Happiness]","[+10]% [Happiness]"],
+    },
+    {
+        "name": "Eastern Dominion Token",
+        "resourceType": "Luxury",
+        "uniques": ["[+20]% [Science] [in capital]","[+20]% [Production] [in capital]"],
+    },
+    {
+        "name": "New USSR Token",
+        "resourceType": "Luxury",
+        "uniques": ["[+10]% [Science] [in all cities]","[+10]% [Science] [in capital]"],
+    },
+    {
+        "name": "Desert Token",
+        "resourceType": "Luxury",
+        "uniques": ["[+10]% [Culture] [in all cities]","[+10]% [Culture] [in capital]"],
+    },
+    {
+        "name": "Switzerland Token",
+        "resourceType": "Luxury",
+        "uniques": ["Resting point for Influence with City-States is increased by [30]","City-State territory always counts as friendly territory"],
+    },
+    {
+        "name": "Tres Token",
+        "resourceType": "Luxury",
+        "uniques": ["[+25]% Great Person generation [in all cities]","[+25]% Great Person generation [in capital]"],
+    }
+]

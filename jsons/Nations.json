@@ -1,0 +1,359 @@
+[
+	{
+	    "civilopediaText": [
+    { "text": "Hey there! At New Oceania, we have gold and resources aplenty! *gasp* Wait, what do you mean we're greedy hoarders?! No, no! It's just the way of the market, darling~!" },
+    ],
+		"name": "Republic Federation of New Oceania",
+		"leaderName": "Miranda Kreuz",
+		"adjective": ["new oceania"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "New Oceania — The Oceanic Queen, a land of neutrality and isolationism, yet paradoxically a global trade powerhouse, with claims over vast stretches of the Pacific. Naturally, many rivals seek to challenge us, but the winds of war are rising once again. Will we hold steady? Only time will tell.",
+		"startIntroPart2": "| Queen Miranda, will you speak your mind or let your armies decide? The choice is yours to make. |",
+		
+		"declaringWar": "Oh, I see... Well, if I must!",
+		"attacked": "Hmm, how intriguing.",
+		"defeated": "..I'm sorry, [REDACTED], I couldn't protect them...",
+		"introduction": "Greetings! Let's work together and ensure prosperity for all!",
+		
+		"neutralHello": "Ah, hello there~",
+		"neutralLetsHearIt": ["How fascinating... Please, go on!","Hmm, this sounds promising!","Okay, I'm listening!"],
+		"neutralNo": ["Hmm..? No, thank you.","Not interested..!","Sorry, but no."],
+		"neutralYes": ["Absolutely!","Hehe, alright!","Of course!"],
+		
+		"hateHello": "... Please, just leave me be...!",
+		"hateLetsHearIt": ["Fine, fine.","Hmm..? Go ahead.","I'm listening."],
+		"hateNo": ["No, thank you.","I cannot accept this..!","Excuse me, but no."],
+		"hateYes": ["Well... if you insist.","I accept... reluctantly.","Very well, then."],
+		
+		"afterPeace": "I suppose we both owe each other an apology, don't we? Let's call it even, shall we?",
+		"tradeRequest": "Trade Alert! Time to strike a deal!",
+
+		"outerColor": [255,255,255],
+		"innerColor": [78,142,184],
+		"uniqueName": "Union of World Trade",
+		"uniques": ["Comment [Capitalism? No, it's more like aggressive economic warfare, and we're dominating it.]","Gain a free [Union Council] [in capital]","[+3 Gold, +1 Happiness] [in all coastal cities]","[+3 Gold, +1 Happiness] from each Trade Route","[+30]% [Gold] [in all coastal cities] <when above [10] Happiness>","[+30]% [Gold] from Trade Routes <when above [10] Happiness>","[Gold] cost of purchasing items in cities [-30]%","Comment [Gold? Diamonds? Money? In the end, it’s all just fleeting. The rot of greed consumes all.]","Gifts of Gold to City-States generate [-500]% more Influence","[-50]% Strength <when below [30] Happiness> <when fighting in [Enemy] tiles>"],
+		"cities": ["Kreuz", "Seania","Vivian","Feross","Sivilia","Iveruz","Maynila","Teross","Crynos"]
+	},
+	
+	///
+	
+	{
+	    "civilopediaText": [
+    { "text": "It took two world wars and one ideology, but Europe is finally united. Now, I shall show them the true might of ours." },
+    ],
+		"name": "Union of Vorherrschaft",
+		"leaderName": "Bismarck Hanz II",
+		"adjective": ["Vorherrschaft"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Ah, another rebirth of the German Empire, this time cloaked as a 'defensive' pact. But we deceive no one, and we do not bother to hide our intentions. As history shows, war is an eternal constant. Guten Tag.",
+		"startIntroPart2": "| Supreme Leader Bismarck II, will you achieve what your forebears could not, or will you repeat their failures? |",
+		
+		"declaringWar": "You stand in our way, and that cannot be allowed.",
+		"attacked": "Actions speak louder than words. Let’s see if you can back them up.",
+		"defeated": ".. Congratulations to you, and to myself, for I have merely repeated history.",
+		"introduction": "Morgen und guten Tag, Freund.",
+		
+		"neutralHello": "Yes?",
+		"neutralLetsHearIt": ["Intriguing... hmm, let's hear more.","Hmm... sounds good!","Go on."],
+		"neutralNo": ["...","No.","Sorry, no."],
+		"neutralYes": ["Alright.","Very well.","Sure."],
+
+		"hateHello": "... Guten Tag, Feind.",
+		"hateLetsHearIt": ["Speak.","Right.","Go on."],
+		"hateNo": ["Never.","Absolutely not.","I beg your pardon?"],
+		"hateYes": ["Fine.","Accepted.","Very well."],
+		
+		"afterPeace": "...",
+		"tradeRequest": "I have matters that may interest you.",
+
+		"outerColor": [2,2,2],
+		"innerColor": [95,91,92],
+		"uniqueName": "Legions of Order",
+		"uniques": ["Comment [Iron Order, Autocracy, it doesn't matter what you call it. It's always Discipline and Fear of Punishment.]","Gain a free [Union Council] [in capital]","[+15]% Strength <when attacking>","[+15]% Strength <when fighting in [Foreign] tiles>","[+30]% Production when constructing [Military] units [in all cities] <when not at war>","Militaristic City-States grant units [3] times as fast when you are at war with a common nation","Cities are razed [5] times as fast <when at war>","[+50]% XP gained from combat","Comment [Happiness? Freedom? Who needs them?]","[-30]% [Culture] [in all cities] <when not at war>","[-30]% [Gold] [in all cities] <when at war>","Rebel units may spawn <when below [-10] Happiness>"],
+		"cities": ["Berlin", "Frankfurt", "Munich", "Hamburg", "Cologne", "Stuttgart", "Düsseldorf", "Leipzig", "Dortmund", "Essen", "Bremen", "Dresden", "Hanover", "Nuremberg", "Bochum", "Wuppertal", "Bonn", "Mannheim", "Karlsruhe", "Augsburg","Paris", "Marseille", "Lyon", "Toulouse", "Nice", "Nantes", "Strasbourg", "Montpellier", "Bordeaux", "Lille","Rome", "Milan", "Naples", "Turin", "Palermo", "Genoa", "Bologna", "Florence", "Bari", "Catania"]
+	},
+	
+	///
+	
+	{
+	    "civilopediaText": [
+    { "text": "Welcome to the highlands, lads. But ya better tread carefully, why aye? We got landmines all over, mate!" },
+    ],
+		"name": "Sovereign States of The Northern Highlands",
+		"leaderName": "Arthur Hawthorne Windsor",
+		"adjective": ["northern highlands"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Welcome to The Highlands! The first defensive union of its kind in this era! A nation that thrives on snowy dominance and guerilla tactics to survive. And aye, we got more booze than them communists, too!",
+		"startIntroPart2": "| So aye, lad, can you lead us to victory and peace? Or will we fail and perish before spring? Only time will tell. |",
+		
+		"declaringWar": "Forgive me for what I'm about to do, mate.",
+		"attacked": "Oh? Coming at us? Let’s see if you can handle it.",
+		"defeated": ".. Oh, we lost? How the bloody hell did that happen? Oh well, farewell then.",
+		"introduction": "Aye, mate, fancy being friends?",
+		
+		"neutralHello": "Wha'?",
+		"neutralLetsHearIt": ["Interesting... hmm... let's see","You got my attention.","Go on."],
+		"neutralNo": ["...","No.","Sorry, no."],
+		"neutralYes": ["Alright.","Very well.","Sure."],
+
+		"hateHello": "... The hell do you want?!",
+		"hateLetsHearIt": ["Talk.","Right.","Go on."],
+		"hateNo": ["Never.","Absolutely not.","I beg your pardon?"],
+		"hateYes": ["Fine.","Accepted.","Very well."],
+		
+		"afterPeace": "But we’ll be watching you, mate.",
+		"tradeRequest": "We got somethin’ that might interest ya.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [78,142,184],
+		"uniqueName": "The Highlands' League",
+		"uniques": ["Comment [Snow, Tundra, Hills.]","Gain a free [Union Council] [in capital]","Units ignore terrain costs when moving into any tile with Hills","[+25]% Strength <when fighting in [Hill] tiles> <when fighting in [Friendly] tiles>","[25]% to Flank Attack bonuses <when fighting in [Friendly] tiles>","[+25]% Strength <when fighting in [Friendly] tiles> <when above [15] Happiness>","[+25]% Strength decreasing with distance from the capital <when above [15] Happiness>","[+2] Movement <when fighting in [Friendly] tiles>","Comment [Better safe than sorry.]","[-50]% Strength <when fighting in [Foreign] tiles>","Unable to capture cities"],
+		"cities": ["London", "Edinburgh", "Cardiff", "Belfast", "Oslo", "Stockholm", "Copenhagen", "Helsinki", "Reykjavik", "Bergen", "Gothenburg", "Malmo", "Aarhus", "Tampere", "Turku", "Odense", "Stavanger", "Trondheim", "Uppsala", "Espoo"]
+	}
+	
+	///
+	
+	{
+	    "civilopediaText": [
+    { "text": "Welcome to our humble nation. Please, take some bread and tea, and let's discuss things peacefully." },
+    ],
+		"name": "Ubuntu Union",
+		"leaderName": "Zuberi Akili Mandela",
+		"adjective": ["ubuntu"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome, O great leader. Our nation, Ubuntu, was one of the first to emerge in this era of unions. Alongside our great morality and philosophical ideals, we are known as the happiest nation on Earth.",
+		"startIntroPart2": "| So, Great Teacher, can you guide our world and its people to peace? Or will humanity's darker nature overtake us? Only time can tell. |",
+		
+		"declaringWar": "This is for the sake of humanity, my friend.",
+		"attacked": "Lord, forgive them, for they know not what they do.",
+		"defeated": ".. Farewell. I beg you, show mercy to my people.",
+		"introduction": "Good morning, friend.",
+		
+		"neutralHello": "Yes?",
+		"neutralLetsHearIt": ["Yes.","Very well, friend.","Please, go on."],
+		"neutralNo": ["I humbly refuse.","I cannot. Apologies.","I’m sorry, but I cannot."],
+		"neutralYes": ["Alright.","Very well.","Sure."],
+
+		"hateHello": "... Morning, friend.",
+		"hateLetsHearIt": ["Sure...","Right.","Go on."],
+		"hateNo": ["I must refuse.", "I cannot.", "No."],
+		"hateYes": ["Alright.","Accepted.","Very well."],
+		
+		"afterPeace": "Peace once more. Farewell for now.",
+		"tradeRequest": "Good morning, may we have your blessing?",
+
+		"outerColor": [57,159,6],
+		"innerColor": [255,255,102],
+		"uniqueName": "Humanity's Unity",
+		"uniques": ["Comment [Come, friend, sit with me and let's talk.]","Gain a free [Union Council] [in capital]","[+3 Happiness] [in all cities] <when not at war>","[+50]% [Happiness] <when not at war>","[+100]% Golden Age length","[50]% of excess happiness converted to [Culture]","[50]% of excess happiness converted to [Science]","Comment [We are humans, not animals.]","Unable to pillage tiles","May not annex cities"],
+		"cities": ["Addis Ababa","Addis Ababa", "Cairo", "Johannesburg", "Lagos", "Nairobi", "Kinshasa", "Cape Town", "Accra", "Abuja", "Dakar", "Algiers", "Casablanca", "Luanda", "Dar es Salaam", "Kampala", "Khartoum", "Gaborone", "Tunis", "Windhoek", "Mogadishu", "Maputo", "Harare", "Yaoundé", "Bamako", "Freetown"]
+	},
+	
+	///
+	
+	{
+	    "civilopediaText": [
+    { "text": "The Eastern Dominion has always sought power and glory since its inception, driven by the fear of being overtaken by the Soviets. Together, we stand strong. Honor awaits those who die for the nation." },
+    ],
+		"name": "Federation of The Eastern Dominion",
+		"leaderName": "Sakura",
+		"adjective": ["eastern dominion"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Welcome, Ma'am Sakura! The Federation of the Eastern Dominion is united under one banner, strong and unyielding! Our enemies are many, but we will grow stronger with every challenge.",
+		"startIntroPart2": "| Will you lead us to glory, Ma'am, or will our enemies crush us beneath their boots? Only time will reveal our fate. |",
+		
+		"declaringWar": "Your existence is a threat to our future.",
+		"attacked": "You dare provoke us? We will see how long you can endure.",
+		"defeated": "So, we have fallen. May our enemies choke on their victory.",
+		"introduction": "Greetings. Prepare yourself for what is to come.",
+		
+		"neutralHello": "What is it?",
+		"neutralLetsHearIt": ["I’m listening.","Speak.","Go ahead."],
+		"neutralNo": ["I cannot accept this.","That’s not possible.","I decline."],
+		"neutralYes": ["Very well.","I accept.","Agreed."],
+
+		"hateHello": "... What do you want?",
+		"hateLetsHearIt": ["Speak.","Go ahead.","What now?"],
+		"hateNo": ["No.","Not happening.","Stay away."],
+		"hateYes": ["Fine.","So be it.","Let’s proceed."],
+		
+		"afterPeace": "For now, peace prevails. But don’t think I trust you.",
+		"tradeRequest": "A deal, perhaps? Let’s see if we can make this work.",
+
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Tidal Wave Fleet",
+		"uniques": ["Comment [How wonderful, I'll love to pillage your lovely cities of yours]","Gain a free [Union Council] [in capital]","[+30]% [Science] [in capital] <when not at war>","[+30]% [Production] [in capital] <when at war>","[+25]% Strength <vs cities>","[25]% Strength <for [Water] units>","No movement cost to pillage","[1] Movement point cost to disembark","Comment [It's either die with honor, or run in shame.]","[-1] Movement <when below [20] HP>","[-1] Movement <when below [40] HP>","[-20]% [Gold] <when at war>"],
+		"cities": ["Tokyo", "Kyoto", "Osaka", "Hiroshima", "Nagoya", "Fukuoka", "Sapporo", "Yokohama", "Nagasaki", "Beijing", "Shanghai", "Guangzhou", "Shenzhen", "Chengdu", "Hangzhou", "Tianjin", "Wuhan", "Xi'an", "Chongqing", "Taipei", "Kaohsiung", "Taichung", "Tainan", "Keelung", "Hsinchu", "Chiayi", "Hualien", "Taoyuan", "Taitung"]
+	},
+	
+	///
+
+	{
+	    "civilopediaText": [
+    { "text": "Welcome to our land, comrade! The USSR has been revived, and we're stronger than ever! Our production is through the roof—work, work, work!" },
+    ],
+		"name": "New Order of USSR",
+		"leaderName": "???",
+		"adjective": ["ussr"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Good day, comrade [REDACTED], the New Order of the USSR rises anew! Our socialism has been refined and reshaped to dominate in the modern age!",
+		"startIntroPart2": "| Will you lead us to spread our ideology across the world, or will we crumble like the old regime? Only time will tell. |",
+		
+		"declaringWar": "This land is ours now. Prepare yourself.",
+		"attacked": "Ha! Let’s see how well you fare against the Russian winter!",
+		"defeated": "May you burn in the fires of your own defeat.",
+		"introduction": "Greetings, comrade. How can we proceed?",
+		
+		"neutralHello": "Yes, comrade?",
+		"neutralLetsHearIt": ["Let’s hear your proposal, comrade.","I’m listening.","Speak, comrade."],
+		"neutralNo": ["I can't agree to that.","Not possible, comrade.","That’s not going to work."],
+		"neutralYes": ["Agreed.","I accept.","Very well."],
+
+		"hateHello": "... What is it?",
+		"hateLetsHearIt": ["Go on.","Right.","Speak."],
+		"hateNo": ["No way.","Denied.","Not happening."],
+		"hateYes": ["Fine.","Accepted.","So be it."],
+		
+		"afterPeace": "That’s over, comrade. But tell me, do you want vodka?",
+		"tradeRequest": "Look at this deal. Surely, it interests you?",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "New Socialist Idealogy",
+		"uniques": ["Comment [Work, Work, Work.]","Gain a free [Union Council] [in capital]","[+5 Production] <in cities connected to the capital>","[+20]% [Production] <in cities connected to the capital>","[-25]% Culture cost of natural border growth [in all cities]","[+10]% [Science] <in cities connected to the capital>","Comment [RUSSIA, STOP SPENDING YOUR MONEY ON BUYING F#CKING VODKA FROM NEW OCEANIA-!]","Comment [LOOK, I CAN'T, I'M DRINKING ALL OF MY PROBLEMS AWAY, GO AWAY!]","[-50]% [Gold] <when below [20] Happiness>","[-10]% Strength <when below [20] Happiness>"],
+		"cities": ["Moscow", "Tula", "Yaroslavl", "Smolensk", "Nizhny Novgorod", "Vologda", "Tambov", "Voronezh", "Saratov", "Ulyanovsk", "Kazan", "Volgograd", "Izhevsk", "Sovetsk", "Yekaterinburg", "Chelyabinsk", "Omsk", "Novosibirsk", "Krasnoyarsk", "Irkutsk", "Chita", "Ulan-Ude", "Blagoveshchensk", "Khabarovsk", "Vladivostok", "Yuzhno-Sakhalinsk", "Petropavlovsk-Kamchatsky"]
+	},
+	
+	///
+	
+	{
+	    "civilopediaText": [
+    { "text": "The Desert Union, once the most powerful trading and economic force, was struck down by the arrival of Oceania, which stole our glory. But we will rise again!" },
+    ],
+		"name": "Desert Union",
+		"leaderName": "Khalifa Layth Al-Sharq",
+		"adjective": ["desert union"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Good morning, Supreme Leader! The Desert Union, a land of vast deserts and towering skyscrapers, is home to the finest technology and the largest oil reserves! And do not, I repeat, DO NOT mention Oceania—our hatred for them knows no bounds!",
+		"startIntroPart2": "| Will you lead us to a new golden age and restore our former glory, or will we sink into the sands of time? Only time will tell. |",
+		
+		"declaringWar": "The desert thirsts for new lands.",
+		"attacked": "So, you're challenging me? Let’s see who can withstand the heat!",
+		"defeated": "O great Allah, deliver us from this defeat...",
+		"introduction": "Greetings, friend!",
+		
+		"neutralHello": "What a wonderful day, isn't it?",
+		"neutralLetsHearIt": ["Tell me more.","Very well.","That sounds interesting."],
+		"neutralNo": ["I can’t do that.","Sorry, that’s not possible.","I must decline."],
+		"neutralYes": ["Alright.","I agree.","Sure."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["Proceed.","Go on.","I'm listening."],
+		"hateNo": ["Absolutely not.","Denied. Never again.","Be gone."],
+		"hateYes": ["Fine.","Accepted.","So be it."],
+		
+		"afterPeace": "Good day to you.",
+		"tradeRequest": "I propose a trade, my friend.",
+
+		"outerColor": [251,186,56],
+		"innerColor": [125,101,52],
+		"uniqueName": "The Middle Kingdom",
+		"uniques": ["Comment [Advancements in Technology!]","Gain a free [Union Council] [in capital]","[+20]% [Science] [in all cities]","[+20]% [Culture] [in all cities]","[+20]% [Production] [in all cities]","Comment [DAMN YOU, NEW OCEANIA!]","[-75]% [Gold] [in all coastal cities]","[-30]% [Gold] from Trade Routes","[Gold] cost of purchasing items in cities [+25]%"],
+		"cities": ["Riyadh", "Cairo", "Baghdad", "Abu Dhabi", "Muscat", "Jerusalem", "Mecca", "Doha", "Amman", "Manama", "Kuwait City", "Beirut", "Damascus", "Sana'a", "Khartoum", "Mogadishu", "Tripoli", "Tunis", "Algiers", "Nouakchott", "Rabat"]
+	},
+    
+	///
+	
+	{
+	    "civilopediaText": [
+    { "text": "The Confederation of Switzerland, the final union to emerge, and the last major civilization to join the global alliance." },
+    ],
+		"name": "Confederation of Switzerland",
+		"leaderName": "Markus Weissberg",
+		"adjective": ["switzerland"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Good morning, Leader Markus! Welcome to Switzerland, the world's most renowned neutral state. We are proud of our impartiality in every war, and we boast one of the largest gold reserves in the world—rivaling even Oceania!",
+		"startIntroPart2": "| Great leader, are you prepared to lead us through diplomacy and achieve global influence, or will we fade into obscurity? Only time will reveal our fate. |",
+		
+		"declaringWar": "We did not seek this, but you leave us no choice. It’s nothing personal.",
+		"attacked": "I’ve tried to remain neutral, but now you’ve forced my hand. Prepare yourself.",
+		"defeated": "Oh dear, this wasn’t supposed to happen...",
+		"introduction": "Greetings, ruler. Would you like to sign this contract of non-aggression?",
+		
+		"neutralHello": "How may I assist you today?",
+		"neutralLetsHearIt": ["I’m listening.","Very well.","Please, continue."],
+		"neutralNo": ["I cannot do that.","Apologies, that’s not possible.","I must refuse."],
+		"neutralYes": ["Alright.","Understood.","I agree."],
+
+		"hateHello": "... What do you want?",
+		"hateLetsHearIt": ["Go on.","I’m listening.","Speak quickly."],
+		"hateNo": ["Absolutely not.","I refuse.","You are no longer welcome."],
+		"hateYes": ["Fine.","Accepted.","Very well."],
+		
+		"afterPeace": "Ah, peace. Let’s put aside our differences and enjoy this calm while it lasts.",
+		"tradeRequest": "Greetings, let’s discuss trade.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [178,3,27],
+		"uniqueName": "Neutralist Union",
+		"uniques": ["Comment [One City, One Large Dream.]","Gain a free [Union Council] [in capital]","Cannot build [Civilian] units","Free [Worker] appears","[+30]% [Happiness] [in capital] <when above [2500] [Gold]>","[+30]% [Culture] [in capital]","[+30]% [Science] [in capital]","[+30]% [Production] [in capital]","Allied City-States will occasionally gift Great People","Resting point for Influence with City-States is increased by [60]","City-State territory always counts as friendly territory","Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns","Gain [3000] [Gold] <upon founding a city>","Comment [New Oceania kept.. sabotaging my economy..]","[Gold] cost of purchasing items in cities [+25]%","[-30]% [Gold] [in all cities] <when below [5000] [Gold]>","[-25]% [Gold] [in all cities] <when below [2500] [Gold]>"],
+		"cities": ["Switzerland","New Switzerland","Sussy Switzerland"]
+	},
+	
+	///
+	
+	{
+	    "civilopediaText": [
+    { "text": "Freedom, Coke, Oil? Yup, that's the American Dream, alright! WOOOHOOOOOO, FREEDOM, BABY!" },
+    ],
+		"name": "United States of Tres",
+		"leaderName": "Washington",
+		"adjective": ["Tres"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome, welcome to the land of freedom! Got oil that isn’t under our control? FREEDOM! No rights in your state? FREEDOM! Terrible healthcare system? FREEDOM!",
+		"startIntroPart2": "| So, Leader Washington, are you prepared to guide us on the path to the American Dream? Or shall we fall asleep forever, never to wake? Only time will tell. |",
+		
+		"declaringWar": "You leave us no choice. It's nothing personal.",
+		"attacked": "Bring it on.",
+		"defeated": "How... could this happen?",
+		"introduction": "*Eagle screeching noises* AMERICA! Hello, hello!",
+		
+		"neutralHello": "Yes?",
+		"neutralLetsHearIt": ["Sounds good.","Very well.","Alright, go ahead."],
+		"neutralNo": ["I can't do that.","Nah, sorry.","Nope."],
+		"neutralYes": ["Alright.","Understood.","Sure."],
+
+		"hateHello": "... *awkward silence*...",
+		"hateLetsHearIt": ["Sure...","Right...","Go on."],
+		"hateNo": ["Absolutely not.","Oh naw.","Banish."],
+		"hateYes": ["Alright.","Accepted.","Very well."],
+		
+		"afterPeace": "We’ll get you next time!1!1!.",
+		"tradeRequest": "Trade offer.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [178,3,27],
+		"uniqueName": "The Land of Freedom",
+		"uniques": ["Comment [The Right to live, The Right to choose, The Right to be happy.]","Gain a free [Union Council] [in capital]","[+50]% [Culture] [in all cities]","[+100]% Great Person generation [in all cities]","Great General provides double combat bonus","Comment [Pride comes before a great fall.]","[-30]% [Production] [in all cities] <when below [10] Happiness>"],
+		"cities": ["New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Toronto", "Vancouver", "Montreal", "Calgary", "Ottawa", "Mexico City", "Guadalajara", "Monterrey", "Cancún", "Tijuana"]
+	}
+]

@@ -1,0 +1,432 @@
+[
+	{
+	    "name": "Oceanic Dreadnought",
+		"unitType": "Warship",
+		"uniqueTo": "Republic Federation of New Oceania",
+		"cost": 500,
+		"movement": 2,
+		"strength": 150,
+		"requiredTech": "Robotics",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Oceanic Dreadnought", "imageSize": 200 },
+    { "text": "The Oceanic Dreadnought, an unstoppable warship of the Republic Federation of New Oceania, is a titan of the seas. Designed for unmatched dominance, it can cripple fleets, devastate cities, and intercept airborne threats with precision. With its immense strength and tactical versatility, the Oceanic Dreadnought ensures no enemy escapes its grasp." },
+    ],
+		"uniques": ["[25]% Strength <when defending> <vs [Ranged] units> <when above [75] HP>","[25]% Strength <when defending> <vs [Ranged] units> <when above [50] HP>","[25]% Strength <when defending> <vs [Ranged] units> <when above [25] HP>","[25]% Strength <when defending> <vs [Ranged] units> <when above [10] HP>","[50]% Strength <vs cities>","[-50]% Strength for enemy [Water] units in adjacent [all] tiles <when above [20] HP>","No movement cost to pillage","[+1] Air Interception Range","[100]% chance to intercept air attacks","[2] extra interceptions may be made per turn"],
+		"attackSound": "Oceanic Dreadnought"
+	},
+	
+	///
+	
+	{
+	    "name": "Ship of The High Tides",
+		"unitType": "Warship",
+		"uniqueTo": "Federation of The Eastern Dominion",
+		"cost": 250,
+		"movement": 1,
+		"strength": 60,
+		"rangedStrength": 60,
+		"range": 2,
+		"requiredTech": "Combustion",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Ship of The High Tides", "imageSize": 200 },
+    { "text": "The Ship of The High Tides, a resilient warship of the Federation of the Eastern Dominion, is as adaptable as the ocean itself. Its ability to flow with the tides makes it nearly unsinkable in harsh conditions. When part of a fleet, it transforms into a force of nature, unleashing a tidal wave of destruction upon its enemies." },
+    ],
+		"uniques": ["[+2] Movement <in [Ocean] tiles>","Double movement in [Ocean]","Can move after attacking","[-10]% Strength for enemy [non-[Air]] units in adjacent [Ocean] tiles","[+10]% Strength bonus for [Ship of The High Tides] units within [2] tiles","Withdraws before melee combat","[+25]% to Flank Attack bonuses"],
+		"attackSound": "Ship of The High Tides"
+	},
+	
+	///
+	
+	{
+	    "name": "Floating Fortress",
+		"unitType": "Aircraft (FLYING)",
+		"uniqueTo": "Republic Federation of New Oceania",
+		"cost": 425,
+		"movement": 3,
+		"strength": 100,
+		"rangedStrength": 100,
+		"range": 1,
+		"requiredTech": "Radar",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Floating Fortress", "imageSize": 200 },
+    { "text": "The Floating Fortress, the largest warblimp ever conceived by humanity, dominates both the skies and the battlefield. With the ability to decimate land, cities, and fleets alike, it stands as a symbol of aerial supremacy for the Republic Federation of New Oceania. Its unmatched versatility ensures destruction wherever it flies." },
+    ],
+		"uniques": ["[50]% Strength <when defending>","No damage penalty for wounded units","[+2] Sight","Destroys tile improvements when attacking","Withdraws before melee combat","No movement cost to pillage","Can move after attacking"],
+		"attackSound": "Floating Fortress"
+	},
+	
+	///
+	
+	{
+	    "name": "Elite Soldier",
+		"unitType": "Infantry",
+		"uniqueTo": "Union of Vorherrschaft",
+		"cost": 375,
+		"movement": 4,
+		"strength": 80,
+		"requiredTech": "Plastics",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Elite Soldier", "imageSize": 200 },
+    { "text": "Forged in the Union of Vorherrschaft's secret military programs, Elite Soldiers are the epitome of discipline, resilience, and lethality. Trained to endure the harshest conditions and execute orders without hesitation, they excel in combat and leave a trail of destruction and profit in their wake." },
+    ],
+		"uniques": ["[-100]% maintenance costs","[+10] HP when healing","[+50]% XP gained from combat","Heals [20] damage if it kills a unit","Earn [100]% of the damage done to [all] units as [Gold]"],
+		"attackSound": "Elite Soldier"
+	},
+	
+	///
+	
+	{
+	    "name": "Conqueror of Lands",
+		"unitType": "Infantry",
+		"uniqueTo": "Union of Vorherrschaft",
+		"cost": 100,
+		"movement": 3,
+		"strength": 20,
+		"requiredTech": "Civil Service",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Conqueror of Lands", "imageSize": 200 },
+    { "text": "The Conqueror of Lands embodies the relentless expansionist spirit of the Union of Vorherrschaft. Marching into enemy territory with unwavering resolve, these infantry units carve out new strongholds, reshaping the map and bringing victory closer with every step." },
+    ],
+		"uniques": ["[+25]% Strength <when fighting in [Enemy] tiles>","Founds a new city <when above [100] HP>"],
+		"attackSound": "Conqueror of Lands",
+	},
+	
+	///
+	
+	{
+	    "name": "Guardian Knight",
+		"unitType": "Infantry",
+		"uniqueTo": "Ubuntu Union",
+		"cost": 100,
+		"movement": 3,
+		"strength": 30,
+		"requiredTech": "Civil Service",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Guardian Knight", "imageSize": 200 },
+    { "text": "O noble Knight, protector of the Ubuntu Union, your duty is to shield the weak, defend the lands, and uphold peace. With watchful eyes and unmatched valor, you stand as a beacon of hope in times of turmoil." },
+    ],
+		"uniques": ["[+1] Sight","[+1] additional attacks per turn"],
+		"attackSound": "Guardian Knight",
+	},
+	
+	///
+	
+	{
+	    "name": "Pledged To Protect",
+		"unitType": "Infantry",
+		"uniqueTo": "Ubuntu Union",
+		"cost": 200,
+		"movement": 3,
+		"strength": 50,
+		"requiredTech": "Rifling",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Pledged To Protect", "imageSize": 200 },
+    { "text": "Though missionaries at heart, the Pledged To Protect will not hesitate to defend their people and homeland. Steadfast and resilient, their strength grows in familiar lands, embodying the Ubuntu Union's unwavering commitment to peace and protection." },
+    ],
+		"uniques": ["[+100]% Strength <when fighting in [Friendly] tiles>","[+50]% Strength decreasing with distance from the capital <when fighting in [Friendly] tiles>","All healing effects doubled"],
+		"attackSound": "Pledged To Protect",
+	},
+	
+	///	
+	
+	{
+	    "name": "I'm not there",
+		"unitType": "Infantry",
+		"uniqueTo": "Desert Union",
+		"cost": 200,
+		"movement": 2,
+		"strength": 30,
+		"requiredTech": "Gunpowder",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/I'm not there", "imageSize": 200 },
+    { "text": "Masters of stealth and subterfuge, the Desert Union's 'I'm not there' units are ghostly figures on the battlefield. Unseen until it's too late, they slip through borders undetected, striking where the enemy least expects it." },
+    ],
+		"uniques": ["No movement cost to pillage","Invisible to non-adjacent units","[+1] Sight","May enter foreign tiles without open borders"],
+		"attackSound": "I'm not there",
+	},
+	
+	///
+	
+	{
+	    "name": "Swiss Soldier",
+		"unitType": "Infantry",
+		"uniqueTo": "Confederation of Switzerland",
+		"cost": 400,
+		"movement": 3,
+		"strength": 80,
+		"requiredTech": "Plastics",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Swiss Soldier", "imageSize": 200 },
+    { "text": "The Swiss Soldier stands as a symbol of precision, readiness, and adaptability. Mobilized and armed at a moment's notice, they excel in both combat and construction, making them a cornerstone of the Confederation of Switzerland's defense and development." },
+    ],
+		"uniques": ["Can move immediately once bought","Can move after attacking","May attack when embarked","Can build [all] improvements at a [200]% rate"],
+		"attackSound": "Swiss Soldier",
+	},
+	
+	///
+	
+	{
+	    "name": "AAGA",
+		"unitType": "Infantry",
+		"uniqueTo": "Confederation of Switzerland",
+		"cost": 0,
+		"movement": 3,
+		"strength": 50,
+		"rangedStrength": 100,
+		"range": 4,
+		"requiredTech": "Ballistics",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/AAGA", "imageSize": 200 },
+    { "text": "The ANTI-AERIAL GUN ARTILLERY (AAGA) is a formidable stationary turret designed to dominate the skies. Capable of both intercepting enemy aircraft with unmatched precision and delivering devastating bombardments, it is an essential asset for the Confederation of Switzerland's defense." },
+    ],
+		"uniques": ["Unbuildable","[100]% chance to intercept air attacks","[+100]% Damage when intercepting","[2] extra interceptions may be made per turn","[+100]% Strength <vs [Air] units>","[+2] additional attacks per turn","Cannot move","[-50]% Strength <vs cities>","Can perform Air Sweep"],
+		"attackSound": "AAGA",
+	},
+	
+	///
+	
+	{
+	    "name": "Hypersonic Striker",
+		"unitType": "Aircraft",
+		"uniqueTo": "United States of Tres",
+		"cost": 500,
+		"movement": 2,
+		"strength": 80,
+		"rangedStrength": 80,
+		"range": 5,
+		"requiredTech": "Radar",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Hypersonic Striker", "imageSize": 200 },
+    { "text": "The Hypersonic Striker, a pinnacle of engineering and patriotism, soars through the skies with unmatched speed and power. A high-velocity, sound-breaking aircraft that strikes fear into any foe, it's as lethal as it is awe-inspiring, representing the cutting edge of military might in the United States of Tres." },
+    ],
+		"uniques": ["[100]% chance to intercept air attacks","[+100]% Damage when intercepting","[+1] extra interceptions may be made per turn","[+100]% Strength <vs [Air] units>","Comment [Take Air for 3 turns]","Can upgrade to [Hypersonic Striker (ABILITY)] <when above [100] HP>","Can perform Air Sweep"],
+		"attackSound": "Hypersonic Striker",
+	},
+	
+	///
+		
+	{
+	    "name": "Winter Tank",
+		"unitType": "Tank",
+		"uniqueTo": "New Order of USSR",
+		"cost": 400,
+		"movement": 2,
+		"strength": 100,
+		"requiredTech": "Combined Arms",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Winter Tank", "imageSize": 200 },
+    { "text": "The Winter Tank, a relic of the Old Soviet era, is a sturdy and reliable machine built for harsh winter conditions. With its ability to traverse snow and tundra with ease, it remains a formidable force on the battlefield, embodying the enduring spirit of the New Order of USSR." },
+    ],
+		"uniques": ["[+2] Movement <in [Tundra] tiles>","[+2] Movement <in [Snow] tiles>","No defensive terrain penalty"],
+		"attackSound": "Winter Tank",
+	},
+	
+	///
+	
+	{
+	    "name": "One",
+		"unitType": "Aircraft",
+		"uniqueTo": "Federation of The Eastern Dominion",
+		"cost": 300,
+		"movement": 2,
+		"strength": 50,
+		"rangedStrength": 50,
+		"range": 4,
+		"requiredTech": "Radar",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/One", "imageSize": 200 },
+    { "text": "The 'One' is a high-risk, high-reward aircraft of the Federation of Eastern Dominion, designed for both devastating air combat and suicidal strikes. With a kamikaze mentality, it sacrifices itself to destroy its enemies." },
+    ],
+		"uniques": ["[+50]% Strength <vs [Air] units>","[80]% chance to intercept air attacks","[+50]% Damage when intercepting","[+2] extra interceptions may be made per turn","Comment [KAMIKAZE]","Can upgrade to [One (ABILITY)] <when above [10] HP>"],
+		"attackSound": "One",
+	}
+	
+	///
+	
+	{
+	    "name": "Spider Devil Tank",
+		"unitType": "Tank",
+		"uniqueTo": "Sovereign States of The Northern Highlands",
+		"cost": 400,
+		"movement": 4,
+		"strength": 80,
+		"requiredTech": "Combined Arms",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Spider Devil Tank", "imageSize": 200 },
+    { "text": "The Spider Devil Tank, a nightmarish creation of the Sovereign States of Northern Highlands, strikes fear into all who encounter it. With its terrifying mobility, relentless firepower, and ability to traverse any terrain, it is an unstoppable force that leaves nothing but destruction in its wake." },
+    ],
+		"uniques": ["[+2] additional attacks per turn","Can move after attacking","Ignores terrain cost","Ignores Zone of Control","No defensive terrain penalty"],
+		"attackSound": "Spider Devil Tank",
+	},
+	
+	///
+	
+	{
+	    "name": "AAGA (ABILITY)",
+		"unitType": "Infantry",
+		"uniqueTo": "Confederation of Switzerland",
+		"cost": 500,
+		"movement": 4,
+		"strength": 50,
+		"requiredTech": "Ballistics",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/AAGA (ABILITY)", "imageSize": 200 },
+    { "text": "The ANTI-AERIAL GUN ARTILLERY (AAGA) is a formidable stationary turret designed to dominate the skies. Capable of both intercepting enemy aircraft with unmatched precision and delivering devastating bombardments, it is an essential asset for the Confederation of Switzerland's defense." },
+    ],
+		"uniques": ["Can upgrade to [AAGA] <when above [50] HP>","No Sight"],
+		"attackSound": "AAGA (ABILITY)",
+	},
+	
+	///
+	
+	
+	{
+	    "name": "Red Army Soldier",
+		"unitType": "Infantry",
+		"uniqueTo": "New Order of USSR",
+		"cost": 450,
+		"movement": 2,
+		"strength": 100,
+		"requiredTech": "Plastics",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Red Army Soldier", "imageSize": 200 },
+    { "text": "Red Army Soldiers, the stalwart defenders of the New Order of USSR, march forward with unyielding determination. With cries of 'For the Motherland!' they fight with vigor in times of prosperity, but their strength wanes in darker days." },
+    ],
+		"uniques": ["[-30]% Strength <when not in a Golden Age>","[+2] Movement <during a Golden Age>"],
+		"attackSound": "Red Army Soldier",
+	},
+	
+	///
+	
+	{
+	    "name": "Soviet Worker",
+		"unitType": "Infantry",
+		"uniqueTo": "New Order of USSR",
+		"cost": 50,
+		"movement": 2,
+		"strength": 10,
+		"requiredTech": "Mining",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Soviet Worker", "imageSize": 200 },
+    { "text": "The Soviet Worker, a tireless laborer of the New Order of USSR, is bound by duty and resilience. While they may grumble under the weight of their work, in times of prosperity, they find strength and speed in their toil, contributing to the machine of the state." },
+    ],
+		"uniques": ["[+100]% Strength <during a Golden Age>","[+1] Movement <during a Golden Age>","Can build [all] improvements at a [150]% rate"],
+		"attackSound": "Soviet Worker",
+	},
+	
+	///
+	
+	
+	{
+	    "name": "Coordinated Strikers",
+		"unitType": "Aircraft",
+		"uniqueTo": "United States of Tres",
+		"cost": 600,
+		"movement": 3,
+		"strength": 100,
+		"rangedStrength": 100,
+		"range": 4,
+		"requiredTech": "Advanced Ballistics",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Coordinated Strikers", "imageSize": 200 },
+    { "text": "Why settle for one when you can have three? The Coordinated Strikers embody the power of numbers, overwhelming enemies with synchronized strikes from the sky. A symbol of unmatched freedom and air superiority, they dominate the skies with sheer force and precision." },
+    ],
+		"uniques": ["[100]% chance to intercept air attacks","[+100]% Damage when intercepting","[+1] extra interceptions may be made per turn","[+100]% Strength <vs [Air] units>","Comment [Take Air for 3 turns]","Can upgrade to [Coordinated Strikers (ABILITY)] <when above [100] HP>","Can perform Air Sweep"],
+		"attackSound": "Coordinated Strikers",
+	},
+	
+	///
+	
+	
+	{
+	    "name": "United Forces Soldier",
+		"unitType": "Infantry",
+		"uniqueTo": "Sovereign States of The Northern Highlands",
+		"cost": 300,
+		"movement": 2,
+		"strength": 70,
+		"requiredTech": "Plastics",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/United Forces Soldier", "imageSize": 200 },
+    { "text": "The United Forces Soldier is a steadfast warrior, bound by the creed of unity and survival. In a world of chaos, they believe in the strength of togetherness, fighting side by side to ensure their survival and the prosperity of the Sovereign States of Northern Highlands." },
+    ],
+		"uniques": ["[+30]% Strength bonus for [United Forces Soldier] units within [1] tiles","[+10]% Strength <when attacking>"],
+		"attackSound": "United Forces Soldier"
+	},
+	
+	///
+	
+	{
+	    "name": "Desert Soldier",
+		"unitType": "Infantry",
+		"uniqueTo": "Desert Union",
+		"cost": 80,
+		"movement": 3,
+		"strength": 20,
+		"requiredTech": "Iron Working",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Desert Soldier", "imageSize": 200 },
+    { "text": "The Desert Soldier, a hardened warrior of the unforgiving sands, knows the scent of fire and smoke all too well. In the harsh desert landscapes, they strike with deadly precision, bringing devastation to cities and enemies alike." },
+    ],
+		"uniques": ["[+50]% Strength <vs cities>","[+50]% Strength <in [Desert] tiles>"],
+		"attackSound": "Desert Soldier",
+	},
+	
+	///
+	
+	{
+	    "name": "Coordinated Strikers (ABILITY)",
+		"unitType": "Aircraft (FLYING)",
+		"uniqueTo": "United States of Tres",
+		"cost": 0,
+		"movement": 8,
+		"strength": 100,
+		"rangedStrength": 100,
+		"range": 1,
+		"requiredTech": "Advanced Ballistics",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Coordinated Strikers (ABILITY)", "imageSize": 200 },
+    { "text": "Why settle for one when you can have three? The Coordinated Strikers embody the power of numbers, overwhelming enemies with synchronized strikes from the sky. A symbol of unmatched freedom and air superiority, they dominate the skies with sheer force and precision." },
+    ],
+		"uniques": ["Unbuildable","[+50]% Strength <when attacking>","[100]% chance to intercept air attacks","[+100]% Damage when intercepting","[+100]% Strength <vs [Air] units>","Comment [Land in City]","Can upgrade to [Coordinated Strikers] <when above [50] HP> <within [0] tiles of a [City Center]>"],
+		"attackSound": "Coordinated Strikers (ABILITY)",
+	},
+	
+	///
+	
+	{
+	    "name": "Hypersonic Striker (ABILITY)",
+		"unitType": "Aircraft (FLYING)",
+		"uniqueTo": "United States of Tres",
+		"cost": 0,
+		"movement": 2,
+		"strength": 80,
+		"rangedStrength": 80,
+		"range": 5,
+		"requiredTech": "Radar",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/Hypersonic Striker (ABILITY)", "imageSize": 200 },
+    { "text": "The Hypersonic Striker, a pinnacle of engineering and patriotism, soars through the skies with unmatched speed and power. A high-velocity, sound-breaking aircraft that strikes fear into any foe, it's as lethal as it is awe-inspiring, representing the cutting edge of military might in the United States of Tres." },
+    ],
+		"uniques": ["Unbuildable","[+50]% Strength <when attacking>","[100]% chance to intercept air attacks","[+100]% Damage when intercepting","[+100]% Strength <vs [Air] units>","Comment [Land in City]","Can upgrade to [Hypersonic Striker] <when above [50] HP> <within [0] tiles of a [City Center]>"],
+		"attackSound": "Hypersonic Striker (ABILITY)",
+	},
+	
+	///
+	
+	{
+	    "name": "One (ABILITY)",
+		"unitType": "Aircraft (FLYING)",
+		"uniqueTo": "Federation of The Eastern Dominion",
+		"cost": 0,
+		"movement": 2,
+		"strength": 20,
+		"requiredTech": "Radar",
+		"civilopediaText": [
+    { "extraImage": "ExtraImages/One (ABILITY)", "imageSize": 200 },
+    { "text": "The 'One' is a high-risk, high-reward aircraft of the Federation of Eastern Dominion, designed for both devastating air combat and suicidal strikes. With a kamikaze mentality, it sacrifices itself to destroy its enemies, and when upgraded, it becomes an even greater threat." },
+    ],
+		"uniques": ["Unbuildable","[+500]% Strength <when attacking>","Self-destructs when attacking"],
+		"attackSound": "One (ABILITY)",
+	}
+]
