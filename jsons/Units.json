@@ -199,7 +199,7 @@
     { "extraImage": "ExtraImages/Hypersonic Striker", "imageSize": 200 },
     { "text": "The Hypersonic Striker, a pinnacle of engineering and patriotism, soars through the skies with unmatched speed and power. A high-velocity, sound-breaking aircraft that strikes fear into any foe, it's as lethal as it is awe-inspiring, representing the cutting edge of military might in the United States of Tres." },
     ],
-		"uniques": ["[100]% chance to intercept air attacks","[+100]% Damage when intercepting","[+1] extra interceptions may be made per turn","[+100]% Strength <vs [Air] units>","Comment [Take Air for 3 turns]","Can upgrade to [Hypersonic Striker (ABILITY)] <when above [100] HP>","Can perform Air Sweep"],
+		"uniques": ["[100]% chance to intercept air attacks","[+100]% Damage when intercepting","[+1] extra interceptions may be made per turn","[+100]% Strength <vs [Air] units>","Comment [Take Air for 3 turns]","Can upgrade to [Hypersonic Striker (ABILITY)] <when above [99] HP>","Can perform Air Sweep"],
 		"attackSound": "Hypersonic Striker",
 	},
 	
@@ -237,7 +237,7 @@
     { "extraImage": "ExtraImages/One", "imageSize": 200 },
     { "text": "The 'One' is a high-risk, high-reward aircraft of the Federation of Eastern Dominion, designed for both devastating air combat and suicidal strikes. With a kamikaze mentality, it sacrifices itself to destroy its enemies." },
     ],
-		"uniques": ["[+50]% Strength <vs [Air] units>","[80]% chance to intercept air attacks","[+50]% Damage when intercepting","[+2] extra interceptions may be made per turn","Comment [KAMIKAZE]","Can upgrade to [One (ABILITY)] <when above [10] HP>"],
+		"uniques": ["[+50]% Strength <vs [Air] units>","[80]% chance to intercept air attacks","[+50]% Damage when intercepting","[+2] extra interceptions may be made per turn","Comment [KAMIKAZE]","Can upgrade to [One (ABILITY)] <when above [1] HP>"],
 		"attackSound": "One",
 	}
 	
@@ -331,7 +331,7 @@
     { "extraImage": "ExtraImages/Coordinated Strikers", "imageSize": 200 },
     { "text": "Why settle for one when you can have three? The Coordinated Strikers embody the power of numbers, overwhelming enemies with synchronized strikes from the sky. A symbol of unmatched freedom and air superiority, they dominate the skies with sheer force and precision." },
     ],
-		"uniques": ["[100]% chance to intercept air attacks","[+100]% Damage when intercepting","[+1] extra interceptions may be made per turn","[+100]% Strength <vs [Air] units>","Comment [Take Air for 3 turns]","Can upgrade to [Coordinated Strikers (ABILITY)] <when above [100] HP>","Can perform Air Sweep"],
+		"uniques": ["[100]% chance to intercept air attacks","[+100]% Damage when intercepting","[+1] extra interceptions may be made per turn","[+100]% Strength <vs [Air] units>","Comment [Take Air for 3 turns]","Can upgrade to [Coordinated Strikers (ABILITY)] <when above [99] HP>","Can perform Air Sweep"],
 		"attackSound": "Coordinated Strikers",
 	},
 	
@@ -424,7 +424,7 @@
 		"requiredTech": "Radar",
 		"civilopediaText": [
     { "extraImage": "ExtraImages/One (ABILITY)", "imageSize": 200 },
-    { "text": "The 'One' is a high-risk, high-reward aircraft of the Federation of Eastern Dominion, designed for both devastating air combat and suicidal strikes. With a kamikaze mentality, it sacrifices itself to destroy its enemies, and when upgraded, it becomes an even greater threat." },
+    { "text": "The 'One' is a high-risk, high-reward aircraft of the Federation of Eastern Dominion, designed for both devastating air combat and suicidal strikes. With a kamikaze mentality, it sacrifices itself to destroy its enemies." },
     ],
 		"uniques": ["Unbuildable","[+500]% Strength <when attacking>","Self-destructs when attacking"],
 		"attackSound": "One (ABILITY)",
